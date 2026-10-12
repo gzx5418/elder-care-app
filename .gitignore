@@ -1,0 +1,23 @@
+node_modules/
+frontend/app.js
+android/app/src/main/assets/public/app.js
+android/.gradle/
+android/**/build/
+android/local.properties
+*.jks
+*.keystore
+.env
+.local/
+__pycache__/
+.pytest_cache/
+test-results/
+
+# Private distributions and generated artifacts
+release/
+frontend/
+*.apk
+*.aab
+*.zip
+.env.*
+!.env.example
+*.log
