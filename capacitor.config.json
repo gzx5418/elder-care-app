@@ -1,0 +1,10 @@
+{
+  "appId": "com.elderhelper.app",
+  "appName": "银龄助手",
+  "webDir": "frontend",
+  "android": { "allowMixedContent": false, "webContentsDebuggingEnabled": false },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_notification", "iconColor": "#E8742A" },
+    "CapacitorHttp": { "enabled": true }
+  }
+}
